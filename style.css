@@ -1,6 +1,6 @@
 body {
-background-color: rgb(241, 15, 226);
-color: rgb(255, 229, 248);
+background-color: rgba(0, 0, 0, 0.863);
+color: rgb(190, 15, 15);
 
 font-family: "Fugaz One", sans-serif;
 margin: 0px;
@@ -10,9 +10,9 @@ margin: 0px;
 header {
 font-size: 50px;
 text-align: center;
-border-bottom:dashed 5px blueviolet;
+border-bottom:dashed 5px rgb(228, 195, 10);
 padding: 30px;
-color: rgb(232, 136, 232);
+color: rgb(150, 69, 255);
 }
 
 h1 {
